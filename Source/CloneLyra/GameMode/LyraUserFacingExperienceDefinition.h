@@ -4,10 +4,10 @@
 
 #include "Engine/DataAsset.h"
 
-#include "LyraUserFacingExperience.generated.h"
+#include "LyraUserFacingExperienceDefinition.generated.h"
 
 UCLASS(BlueprintType)
-class ULyraUserFacingExperience : public UPrimaryDataAsset
+class ULyraUserFacingExperienceDefinition : public UPrimaryDataAsset
 {
 	GENERATED_BODY()
 
